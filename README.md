@@ -1,4 +1,4 @@
-# S2-VER
+# S2-VER: Semi-Supervised Visual Emotion Recognition
 The official implement of paper S2-VER: Semi-Supervised Visual Emotion Recognition.
 
 To perform S2-VER on your dataset with 1600 labels, run:
