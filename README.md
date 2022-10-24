@@ -1,5 +1,5 @@
 <div align="center">
-# S2-VER: Semi-Supervised Visual Emotion Recognition
+## S2-VER: Semi-Supervised Visual Emotion Recognition
 
 <a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
 [![Conference](https://img.shields.io/badge/ECCV-2022-orange)](https://eccv2022.ecva.net/)
