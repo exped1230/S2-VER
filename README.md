@@ -1,4 +1,9 @@
 # S2-VER: Semi-Supervised Visual Emotion Recognition
+
+<a href="https://pytorch.org/get-started/locally/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a>
+[![Conference](https://img.shields.io/badge/ECCV-2022-orange)](https://eccv2022.ecva.net/)
+[![License](https://img.shields.io/badge/license-Apache%202-blue)](https://github.com/exped1230/S2-VER/blob/main/LICENSE)
+
 This is the official implement of our **ECCV 2022** paper **S2-VER: Semi-Supervised Visual Emotion Recognition**.
 
 ![Overview of Semi-Supervised Visual Emotion Recognition(S2-VER)](https://github.com/exped1230/S2-VER/blob/main/pipeline.png)
